@@ -1,0 +1,17 @@
+{
+  "name": "zll6pknj93",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zll6pknj93",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "4.17.5",
+    "node-uuid": "1.4.8",
+    "prop-types": "15.6.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "5.0.7",
+    "redux": "latest"
+  }
+}
